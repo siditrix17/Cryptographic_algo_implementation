@@ -1,5 +1,4 @@
 #include<bits/stdc++.h>
-
 using namespace std;
 
 
@@ -49,9 +48,7 @@ int main(){
 	cout<<"Value of X and Y :"<<x<<" "<<y;
 
  	
- 	
- 	
- 	
+//extended euclidean algo
  	
  	
  	
